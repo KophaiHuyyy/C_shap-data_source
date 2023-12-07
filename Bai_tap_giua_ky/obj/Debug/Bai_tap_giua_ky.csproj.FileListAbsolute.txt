@@ -1,0 +1,17 @@
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\bin\Debug\Bai_tap_giua_ky.exe.config
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\bin\Debug\Bai_tap_giua_ky.exe
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\bin\Debug\Bai_tap_giua_ky.pdb
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.csproj.AssemblyReference.cache
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Login.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Properties.Resources.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Register.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.csproj.GenerateResource.cache
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.csproj.CoreCompileInputs.cache
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.exe
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.pdb
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Admin.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.TableManager.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Products.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Customers.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Order.resources
+D:\C#\Bai_tap_giua_ky\Bai_tap_giua_ky\obj\Debug\Bai_tap_giua_ky.Order_details.resources
